@@ -1,0 +1,7 @@
+PyQt5
+matplotlib
+pyqtgraph
+pandas
+numpy
+scikit-learn
+pytest
